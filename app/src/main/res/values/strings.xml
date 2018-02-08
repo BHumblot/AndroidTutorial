@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">World of Tank PoC</string>
+    <string name="title">Bienvenue dans cette application sur World of Tank!</string>
+    <string name="watch_tank">Regarder ces quelques tank :</string>
+    <string name="download_cue">Où chercher et télécharger l\'un d\'eux à l'aide de la barre au-dessus.</string>
+    <string name="action_something">Placeholder</string>
+    <string name="action_download_activity">Download</string>
+</resources>

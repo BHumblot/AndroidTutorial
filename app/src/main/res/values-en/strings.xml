@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title" >Welcome on this application on World of Tank!</string>
+    <string name="watch_tank">Look at those few tanks : </string>
+    <string name="download_cue">Or search and download one of them with the aid of the actionbar over.</string>
+    <string name="action_something">Placeholder</string>
+    <string name="action_download_activity">Download</string>
+</resources>
